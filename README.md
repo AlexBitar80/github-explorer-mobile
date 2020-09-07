@@ -10,6 +10,11 @@
 </h33>
 
 <p align="center">
+  <a href="#robot-technologies-used-in-this-project">technologies used in this project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#books-how-to-use">how to use</a>
+</p>
+
+<p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AlexBitar80/github-explorer-mobile.svg">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AlexBitar80/github-explorer-mobile.svg">
@@ -22,11 +27,6 @@
   <a href="https://github.com/lukemorales/react-rocketshoes/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/AlexBitar80/github-explorer-mobile.svg">
   </a>
-</p>
-
-<p align="center">
-  <a href="#robot-technologies-used-in-this-project">technologies used in this project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#books-how-to-use">how to use</a>
 </p>
 
 <p align="center">
