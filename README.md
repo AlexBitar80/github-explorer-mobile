@@ -9,8 +9,10 @@
   App where you can search for a user and a github repository name and receive information on stars, issues and forks  
 </h33>
 
+
+
 <p align="center">
-  <a href="#robot-technologies-used-in-this-project">technologies used in this project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#robot-technologies-used-in-this-project">technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-how-to-use">how to use</a>
 </p>
 
