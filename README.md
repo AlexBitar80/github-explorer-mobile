@@ -47,8 +47,11 @@ This project was developed using the following technologies:
 -  [React-Native-Vector-Icons](https://www.npmjs.com/package/react-native-vector-icons)
 -  [React Navigation](https://reactnavigation.org/)
 -  [styled-components](https://styled-components.com/)
--  [React-Native-Web-View](https://reactnative.dev/docs/webview)
-
+-  [Axios](https://axios.nuxtjs.org/)
+-  [Visual Studio Code](https://code.visualstudio.com/)
+-  [Editorconfig](https://editorconfig.org/)
+-  [Eslint](https://eslint.org/)
+-  [Prettier](https://prettier.io/)
  
 ## :books: how to use
 
