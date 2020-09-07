@@ -1,13 +1,13 @@
-
-
-
+<p align="center">
+  <img width="310" hieght="200" alt="GitHub Explorer logo" src="https://github.com/AlexBitar80/github-explorer-mobile/blob/master/src/assets/Logo.png">
+</p>
 <h1 align="center">
   Github explorer mobile
 </h1>
 
-<H3 align="center">
+<H4 align="center">
   App where you can search for a user and a github repository name and receive information on stars, issues and forks  
-</h3>
+</h33>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AlexBitar80/github-explorer-mobile.svg">
@@ -22,6 +22,11 @@
   <a href="https://github.com/lukemorales/react-rocketshoes/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/AlexBitar80/github-explorer-mobile.svg">
   </a>
+</p>
+
+<p align="center">
+  <a href="#robot-technologies-used-in-this-project">technologies used in this project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#books-how-to-use">how to use</a>
 </p>
 
 <p align="center">
@@ -42,7 +47,7 @@ This project was developed using the following technologies:
 -  [React-Native-Web-View](https://reactnative.dev/docs/webview)
 
  
-## :books: How to use
+## :books: how to use
 
  to clone this repository and run the project you must have [Yarn](https://yarnpkg.com/) or [Npm](https://www.npmjs.com/get-npm) and [Git](https://git-scm.com/) installed on your machine      
 
